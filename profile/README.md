@@ -19,7 +19,7 @@ Fill in one YAML file. Get a live portfolio, two resume formats, and a PDF expor
 
 ## How it works
 
-[![How to use GitVitae](https://i.ytimg.com/an_webp/iUoFmcTKmW8/mqdefault_6s.webp?du=3000&sqp=CLb74s8G&rs=AOn4CLD4_JY3cnXFReT9PyXbhcF_r-RVLg)](https://www.youtube.com/watch?v=iUoFmcTKmW8)
+[![How to use GitVitae](https://i.ytimg.com/vi/iUoFmcTKmW8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYLCBbKH8wDw==&rs=AOn4CLBFGIfdnVAwWdYJ73_hU2qHwFFt1g)](https://www.youtube.com/watch?v=iUoFmcTKmW8)
 
 1. **[Fork the repo](https://github.com/git-vitae/git-vitae.github.io/fork)**
 2. Edit `portfolio.config.yaml` with your details — it's fully commented, no coding needed
